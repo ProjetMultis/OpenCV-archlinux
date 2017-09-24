@@ -2,8 +2,11 @@
 
 Pour commencer, il faut d'abord installer OpenCV à l'aide des commandes suivantes:
 pacman -Syu
+
 pacman -S gcc pkg-config
+
 pacman -S opencv
+
 
 Une fois l'installation terminé, passer à l'étape suivante :
 
