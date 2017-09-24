@@ -7,4 +7,4 @@
 
 4-Puis compiler le nouveau fichier objet en tappant cette commande: ./test
 
-5-Vos images sont apparu, vous pouvez à présent modifier votre code comme bon vous semble
+5-Vos images sont apparues, vous pouvez à présent modifier votre code comme bon vous semble
